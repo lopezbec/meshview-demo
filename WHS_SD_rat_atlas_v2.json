@@ -5,7 +5,7 @@
     "children": [
       {
         "id": 67,
-        "name": "",
+        "name": "corpus callosum and associated subcortical white matter",
         "color": "ff6e00"
       },
       {
@@ -20,33 +20,33 @@
           {
             "id": 37,
             "name": "anterior commissure, posterior part",
-            "color": "ffba00"
+            "color": "7cfc00"
           },
           {
             "id": 73,
             "name": "anterior commissure, intrabulbar part",
-            "color": "ff4fce"
+            "color": "7cfc00"
           }
         ]
       },
       {
         "id": 1002,
-        "name": "Hippocampal white matter",
+        "name": "Fimbria-Fornix",
         "children": [
           {
             "id": 6,
             "name": "alveus of the hippocampus",
-            "color": "ff00ff"
+            "color": "00ff1d"
           },
           {
             "id": 38,
             "name": "ventral hippocampal commissure",
-            "color": "ae00e8"
+            "color": "00ff1d"
           },
           {
             "id": 52,
             "name": "fornix",
-            "color": "15c0ff"
+            "color": "00ff1d"
           },
           {
             "id": 59,
@@ -57,7 +57,7 @@
       },
       {
         "id": 1003,
-        "name": "Corticofugal pathways",
+        "name": "Internal Capsule",
         "children": [
           {
             "id": 1,
@@ -68,22 +68,6 @@
             "id": 85,
             "name": "pyramidal decussation",
             "color": "7209d4"
-          }
-        ]
-      },
-      {
-        "id": 1004,
-        "name": "Medial lemniscus",
-        "children": [
-          {
-            "id": 34,
-            "name": "medial lemniscus",
-            "color": "d4ff00"
-          },
-          {
-            "id": 84,
-            "name": "medial lemniscus decussation",
-            "color": "4196ff"
           }
         ]
       },
@@ -124,13 +108,8 @@
         ]
       },
       {
-        "id": 63,
-        "name": "posterior commissure",
-        "color": "ff00da"
-      },
-      {
         "id": 1007,
-        "name": "Optic fiber system and supraoptic decussation",
+        "name": "Optic nerve and tract",
         "children": [
           {
             "id": 41,
@@ -199,52 +178,58 @@
       },
       {
         "id": 1012,
-        "name": "Cerebral cortex including the neocortex",
+        "name": "Cerebral Cortex",
         "children": [
           {
             "id": 77,
             "name": "frontal association cortex",
-            "color": "ced307"
+            "color": "6b8f85"
           },
           {
             "id": 92,
             "name": "neocortex",
-            "color": "03c12d"
+            "color": "6b8f85"
           },
           {
             "id": 10,
             "name": "cingulate cortex, area 2",
-            "color": "1d68eb"
+            "color": "6b8f85"
           },
           {
             "id": 108,
             "name": "postrhinal cortex",
-            "color": "287082"
+            "color": "6b8f85"
           },
           {
             "id": 109,
             "name": "presubiculum",
-            "color": "507baf"
+            "color": "6b8f85"
           },
           {
             "id": 110,
             "name": "parasubiculum",
-            "color": "173660"
+            "color": "6b8f85"
           },
           {
             "id": 112,
             "name": "perirhinal area 35",
-            "color": "cd33ff"
+            "color": "6b8f85"
           },
           {
             "id": 113,
             "name": "perirhinal area 36",
-            "color": "7030a0"
-          },
+            "color": "6b8f85"
+          }
+        ]
+      },
+      {
+        "id": 1021,
+        "name": "Entorhinal Cortex",
+        "children": [
           {
             "id": 114,
             "name": "entorhinal cortex",
-            "color": "0c5c08"
+            "color": "dda624"
           },
           {
             "id": 115,
@@ -300,11 +285,6 @@
         "color": "ff91ba"
       },
       {
-        "id": 32,
-        "name": "entopeduncular nucleus",
-        "color": "1ae7ff"
-      },
-      {
         "id": 3,
         "name": "subthalamic nucleus",
         "color": "0000ff"
@@ -322,17 +302,12 @@
       {
         "id": 39,
         "name": "thalamus",
-        "color": "006400"
+        "color": "095e09"
       },
       {
         "id": 93,
         "name": "bed nucleus of the stria terminalis",
         "color": "0008b6"
-      },
-      {
-        "id": 81,
-        "name": "nucleus of the stria medullaris",
-        "color": "de07ed"
       },
       {
         "id": 48,
@@ -371,11 +346,6 @@
         "color": "ffba00"
       },
       {
-        "id": 71,
-        "name": "interpeduncular nucleus",
-        "color": "3fc0ff"
-      },
-      {
         "id": 51,
         "name": "periaqueductal gray",
         "color": "07ff59"
@@ -392,7 +362,7 @@
           {
             "id": 4,
             "name": "molecular cell layer of the cerebellum",
-            "color": "ffff00"
+            "color": "00ffff"
           },
           {
             "id": 5,
@@ -410,11 +380,6 @@
         "id": 75,
         "name": "spinal trigeminal nucleus",
         "color": "5bf1ff"
-      },
-      {
-        "id": 56,
-        "name": "periventricular gray",
-        "color": "eb57ff"
       },
       {
         "id": 47,
