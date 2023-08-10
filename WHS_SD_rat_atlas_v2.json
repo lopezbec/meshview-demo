@@ -8,27 +8,21 @@
         "name": "corpus callosum and associated subcortical white matter",
         "color": "ff6e00"
       },
-      {
-        "id": 1001,
-        "name": "Anterior commissure",
-        "children": [
-          {
-            "id": 36,
-            "name": "anterior commissure, anterior part",
-            "color": "7cfc00"
-          },
-          {
-            "id": 37,
-            "name": "anterior commissure, posterior part",
-            "color": "ffba00"
-          },
-          {
-            "id": 73,
-            "name": "anterior commissure, intrabulbar part",
-            "color": "ff4fce"
-          }
-        ]
-      },
+	  {
+		"id": 36,
+		"name": "anterior commissure, anterior part",
+		"color": "ff6e00"
+	  },
+	  {
+		"id": 37,
+		"name": "anterior commissure, posterior part",
+		"color": "ff6e00"
+	  },
+	  {
+		"id": 73,
+		"name": "anterior commissure, intrabulbar part",
+		"color": "ff6e00"
+	  },
       {
         "id": 1002,
         "name": "Hippocampal white matter",
@@ -41,36 +35,31 @@
           {
             "id": 38,
             "name": "ventral hippocampal commissure",
-            "color": "ae00e8"
+            "color": "ff00ff"
           },
           {
             "id": 52,
             "name": "fornix",
-            "color": "15c0ff"
+            "color": "ff00ff"
           },
           {
             "id": 59,
             "name": "fimbria of the hippocampus",
-            "color": "00ff1d"
-          }
-        ]
-      },
-      {
-        "id": 1003,
-        "name": "Corticofugal pathways",
-        "children": [
-          {
-            "id": 1,
-            "name": "corticofugal pathways",
-            "color": "ff3427"
+            "color": "ff00ff"
           },
-          {
-            "id": 85,
-            "name": "pyramidal decussation",
-            "color": "7209d4"
-          }
-        ]
-      },
+
+		  {
+			"id": 1,
+			"name": "corticofugal pathways",
+			"color": "ff00ff"
+		  },
+		  {
+			"id": 85,
+			"name": "pyramidal decussation",
+			"color": "ff00ff"
+		  }
+		]
+		},
       {
         "id": 1004,
         "name": "Medial lemniscus",
@@ -182,7 +171,7 @@
         "children": [
           {
             "id": 64,
-            "name": "glomerular layer of the accessory olfactory bulb",
+            "name": "glomerular layer of the accessory olfactory bulb  & Cerebral cortex including the neocortex",
             "color": "ffe300"
           },
           {
@@ -194,62 +183,56 @@
             "id": 66,
             "name": "olfactory bulb",
             "color": "ffe300"
-          }
-        ]
-      },
-      {
-        "id": 1012,
-        "name": "Cerebral cortex including the neocortex",
-        "children": [
+          },
           {
             "id": 77,
             "name": "frontal association cortex",
-            "color": "ced307"
+            "color": "ffe300"
           },
           {
             "id": 92,
             "name": "neocortex",
-            "color": "03c12d"
+            "color": "ffe300"
           },
           {
             "id": 10,
             "name": "cingulate cortex, area 2",
-            "color": "1d68eb"
+            "color": "ffe300"
           },
           {
             "id": 108,
             "name": "postrhinal cortex",
-            "color": "287082"
+            "color": "ffe300"
           },
           {
             "id": 109,
             "name": "presubiculum",
-            "color": "507baf"
+            "color": "ffe300"
           },
           {
             "id": 110,
             "name": "parasubiculum",
-            "color": "173660"
+            "color": "ffe300"
           },
           {
             "id": 112,
             "name": "perirhinal area 35",
-            "color": "cd33ff"
+            "color": "ffe300"
           },
           {
             "id": 113,
             "name": "perirhinal area 36",
-            "color": "7030a0"
+            "color": "ffe300"
           },
           {
             "id": 114,
             "name": "entorhinal cortex",
-            "color": "0c5c08"
+            "color": "ffe300"
           },
           {
             "id": 115,
             "name": "lateral entorhinal cortex",
-            "color": "dda624"
+            "color": "ffe300"
           }
         ]
       },
